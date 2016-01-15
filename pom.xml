@@ -10,6 +10,7 @@
     <version>1.0.1</version>
     <name>spring_data</name>
     <url>http://maven.apache.org</url>
+
     <dependencies>
         <dependency>
             <groupId>com.lyncode</groupId>
@@ -22,6 +23,7 @@
             <artifactId>spring-webmvc</artifactId>
             <version>3.2.5.RELEASE</version>
         </dependency>
+
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-test</artifactId>
